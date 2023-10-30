@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "8F65CA7C-03E7-49C6-8F94-001DD281D3DE"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "25D69022-2825-4B6D-9C97-84A4F6293F9F"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ViperDemo/Interactor.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "25"
+            endingLineNumber = "25"
+            landmarkName = "downloadData()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "25D69022-2825-4B6D-9C97-84A4F6293F9F - 98a47b22f039b6cc"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ViperDemo.CryptoInteractor.downloadData() -&gt; ()"
+                  moduleName = "ViperDemo"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mehmetgul/Desktop/XcodeProjects/ViperDemo/ViperDemo/Interactor.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "25"
+                  endingLineNumber = "25"
+                  offsetFromSymbolStart = "292">
+               </Location>
+               <Location
+                  uuid = "25D69022-2825-4B6D-9C97-84A4F6293F9F - d5038eac867798d8"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Sendable (Swift.Optional&lt;Foundation.Data&gt;, Swift.Optional&lt;__C.NSURLResponse&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in ViperDemo.CryptoInteractor.downloadData() -&gt; ()"
+                  moduleName = "ViperDemo"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mehmetgul/Desktop/XcodeProjects/ViperDemo/ViperDemo/Interactor.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "26"
+                  endingLineNumber = "26"
+                  offsetFromSymbolStart = "100">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
